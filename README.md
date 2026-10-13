@@ -1,12 +1,21 @@
-## Pigeon_Sang_test ✨
+# Pigeon_Sang_test ✨
 
-This is a personal study case library  
-这是一个个人学习案例   
+😊 该库是一个个人学习案例    
+😊 This repo is just a personal learning project.
 
-⚠ Its content is only for personal study and reference, 
-contains a large amount of unauthorized material from others, 
-so do not copy or use it commercially.  
-⚠ 其内容仅用于个人学习，参考，含有他人大量未授权内容，切勿搬运或商用
+⭐ 我的个人母语是中文，文档中英文均为AI翻译，如有含义表达疏离还请谅解  
+⭐ My native language is Chinese.
+All English parts in this doc are translated by AI.
+Sorry if anything sounds off.
+
+⚠️ 其内容仅用于个人学习，参考。可能含有大量未授权内容，切勿商用  
+⚠️ The content is for personal study and reference only. 
+It may contain lots of unauthorized material.
+Don’t use it commercially.
+
+# Doc Overview：
+😅 以后再说吧  
+😅 We'll talk about it later.
 
 <!--
 - 🔭 我目前正在做 ...
