@@ -1,0 +1,10 @@
+path: E:/Users/21081/Desktop/Work/Thesis/custom_dataset
+train: images/train
+val: images/val
+
+names:
+  0: 白桦
+  1: 红松
+  2: 芦苇
+  3: 狗尾草
+  4: 蒲公英
