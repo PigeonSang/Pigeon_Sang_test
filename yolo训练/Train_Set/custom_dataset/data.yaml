@@ -1,10 +1,9 @@
-path: E:/Users/21081/Documents/GitHub/Pigeon_test/yolo训练/Train_Set/custom_dataset
-train: images/train
-val: images/val
+train: E:\Users\21081\Documents\GitHub\Pigeon_test\yolo训练\Train_Set\custom_dataset\images\train  # 训练集图像路径
+val: E:\Users\21081\Documents\GitHub\Pigeon_test\yolo训练\Train_Set\custom_dataset\images\val      # 验证集图像路径
 
-names:
-  0: 白桦
-  1: 红松
-  2: 芦苇
-  3: 狗尾草
-  4: 蒲公英
+# 类别数
+nc: 5
+
+# 类别名称
+names: ['白桦', '红松', '狗尾草', '芦苇', '蒲公英']
+
