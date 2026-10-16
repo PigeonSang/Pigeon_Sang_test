@@ -17,9 +17,11 @@ Don’t use it commercially.
 😅 以后再说吧  
 😅 We'll talk about it later.
 
+## Contact me
+🔔 If you have questions, ideas or suggestions, please open an issue to discuss.
+
 ## Changelog
-📌 完整日志：[CHANGELOG.md](./CHANGELOG.md)  
-📌 Full log: [CHANGELOG.md](./CHANGELOG.md)
+📌 完整日志 Full log：[CHANGELOG.md](./CHANGELOG.md)
 
 
 
