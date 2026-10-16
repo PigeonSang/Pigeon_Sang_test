@@ -1,21 +1,9 @@
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+# · v0.0.0
+## · 基于yolo的植物识别
+基于yolov8训练植物识别模型，用于输入截图识别植物输出种类及数量，后续需加入前端和设备端，设备搭载于无人机航拍，嵌入stm32直接处理输出种类及数量数据/输出截图，pc接收处理。  
+前端需用户注册、图片上传/图片接收-识别、数据记录/历史-出表-导出、植物百科 形态/分布、模型调杆···
+  
+确立航拍植物识别项目，目标是识别白桦、红松、芦苇、狗尾草、蒲公英 5 种植物，技术路线定为 YOLOv8 目标检测，数据计划从 iNaturalist 爬取近景单株图、用 X-AnyLabeling 手动标注、按 80/20 划分训练 / 验证，以 mAP50 为主要评估指标 —— 此为立项计划阶段，尚未执行。
+# v0.1.0
+## · 基于yolo的植物识别
+基于标注&爬取来源的寻找难度与工作量与毕业单人项目精力耗费不吻合，项目定位从 "近地航拍多品种识别" 调整为**单植物识别**—— 用 iNaturalist 爬取白桦 / 红松 / 芦苇 / 狗尾草 / 蒲公英共 748 张近景单株图，手动标注后按 80/20 切成 598/150 转 YOLO 格式，YOLOv8n 训 100 epochs 得 mAP50=0.676，交付固定路径推理脚本，后续设备端大概率砍掉，仅保留移动端形式。
