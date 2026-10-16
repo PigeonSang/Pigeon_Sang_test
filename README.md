@@ -18,7 +18,10 @@ Don’t use it commercially.
 😅 We'll talk about it later.
 
 ## Changelog
-Full log: [CHANGELOG.md](./CHANGELOG.md)
+📌 完整日志：[CHANGELOG.md](./CHANGELOG.md)  
+📌 Full log: [CHANGELOG.md](./CHANGELOG.md)
+
+
 
 <!--
 - 🔭 我目前正在做 ...
