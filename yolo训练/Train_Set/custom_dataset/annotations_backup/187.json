@@ -1,0 +1,98 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          20.135009310986845,
+          3.2588454376163845
+        ],
+        [
+          132.98417132216014,
+          3.2588454376163845
+        ],
+        [
+          132.98417132216014,
+          392.45810055865917
+        ],
+        [
+          20.135009310986845,
+          392.45810055865917
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          78.60800744878952,
+          191.34078212290504
+        ],
+        [
+          162.77932960893855,
+          191.34078212290504
+        ],
+        [
+          162.77932960893855,
+          379.4227188081936
+        ],
+        [
+          78.60800744878952,
+          379.4227188081936
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          137.08100558659214,
+          218.5288640595903
+        ],
+        [
+          223.85940409683423,
+          218.5288640595903
+        ],
+        [
+          223.85940409683423,
+          393.94785847299806
+        ],
+        [
+          137.08100558659214,
+          393.94785847299806
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "187.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 225
+}

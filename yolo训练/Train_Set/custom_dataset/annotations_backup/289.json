@@ -1,0 +1,40 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          62.73277467411543,
+          90.78212290502793
+        ],
+        [
+          299.23184357541896,
+          90.78212290502793
+        ],
+        [
+          299.23184357541896,
+          421.88081936685285
+        ],
+        [
+          62.73277467411543,
+          421.88081936685285
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "289.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

@@ -1,0 +1,214 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          6.866852886405923,
+          52.42085661080073
+        ],
+        [
+          77.25791433891982,
+          52.42085661080073
+        ],
+        [
+          77.25791433891982,
+          221.88081936685288
+        ],
+        [
+          6.866852886405923,
+          221.88081936685288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          31.44785847299812,
+          116.85288640595897
+        ],
+        [
+          82.84450651769077,
+          116.85288640595897
+        ],
+        [
+          82.84450651769077,
+          241.6201117318435
+        ],
+        [
+          31.44785847299812,
+          241.6201117318435
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          70.18156424581002,
+          97.48603351955306
+        ],
+        [
+          139.82774674115444,
+          97.48603351955306
+        ],
+        [
+          139.82774674115444,
+          183.89199255121042
+        ],
+        [
+          70.18156424581002,
+          183.89199255121042
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          164.78119180633144,
+          161.1731843575419
+        ],
+        [
+          300.72160148975786,
+          161.1731843575419
+        ],
+        [
+          300.72160148975786,
+          360.0558659217877
+        ],
+        [
+          164.78119180633144,
+          360.0558659217877
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          115.99162011173183,
+          68.43575418994413
+        ],
+        [
+          191.596834264432,
+          68.43575418994413
+        ],
+        [
+          191.596834264432,
+          182.0297951582868
+        ],
+        [
+          115.99162011173183,
+          182.0297951582868
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          183.77560521415262,
+          101.21042830540036
+        ],
+        [
+          267.94692737430165,
+          101.21042830540036
+        ],
+        [
+          267.94692737430165,
+          209.59031657355678
+        ],
+        [
+          183.77560521415262,
+          209.59031657355678
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          271.29888268156424,
+          88.54748603351955
+        ],
+        [
+          355.4702048417131,
+          88.54748603351955
+        ],
+        [
+          355.4702048417131,
+          187.98882681564245
+        ],
+        [
+          271.29888268156424,
+          187.98882681564245
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "304.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

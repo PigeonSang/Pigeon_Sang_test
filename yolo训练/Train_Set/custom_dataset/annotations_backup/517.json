@@ -1,0 +1,69 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          109.45065176908741,
+          128.7709497206704
+        ],
+        [
+          302.0018621973929,
+          128.7709497206704
+        ],
+        [
+          302.0018621973929,
+          465.45623836126623
+        ],
+        [
+          109.45065176908741,
+          465.45623836126623
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          33.84543761638733,
+          218.15642458100558
+        ],
+        [
+          204.79515828677836,
+          218.15642458100558
+        ],
+        [
+          204.79515828677836,
+          475.51210428305393
+        ],
+        [
+          33.84543761638733,
+          475.51210428305393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "517.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 350
+}

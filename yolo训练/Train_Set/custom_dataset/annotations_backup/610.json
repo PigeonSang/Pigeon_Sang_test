@@ -1,0 +1,69 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "蒲公英",
+      "score": null,
+      "points": [
+        [
+          38.89664804469274,
+          137.70949720670393
+        ],
+        [
+          267.94692737430165,
+          137.70949720670393
+        ],
+        [
+          267.94692737430165,
+          373.83612662942267
+        ],
+        [
+          38.89664804469274,
+          373.83612662942267
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "蒲公英",
+      "score": null,
+      "points": [
+        [
+          265.7122905027933,
+          265.0837988826815
+        ],
+        [
+          347.6489757914338,
+          265.0837988826815
+        ],
+        [
+          347.6489757914338,
+          393.5754189944134
+        ],
+        [
+          265.7122905027933,
+          393.5754189944134
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "610.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

@@ -1,0 +1,127 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          147.27653631284915,
+          156.3314711359404
+        ],
+        [
+          223.99906890130347,
+          156.3314711359404
+        ],
+        [
+          223.99906890130347,
+          376.07076350093104
+        ],
+        [
+          147.27653631284915,
+          376.07076350093104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          206.86685288640592,
+          0.0
+        ],
+        [
+          305.19087523277466,
+          0.0
+        ],
+        [
+          305.19087523277466,
+          190.59590316573556
+        ],
+        [
+          206.86685288640592,
+          190.59590316573556
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          333.4962756052141,
+          32.30912476722533
+        ],
+        [
+          365.89851024208565,
+          32.30912476722533
+        ],
+        [
+          365.89851024208565,
+          237.52327746741153
+        ],
+        [
+          333.4962756052141,
+          237.52327746741153
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          4.632216014897551,
+          39.013035381750456
+        ],
+        [
+          169.25046554934818,
+          39.013035381750456
+        ],
+        [
+          169.25046554934818,
+          303.81750465549334
+        ],
+        [
+          4.632216014897551,
+          303.81750465549334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "539.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

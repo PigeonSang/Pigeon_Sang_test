@@ -1,0 +1,214 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          157.56302521008405,
+          79.23669467787111
+        ],
+        [
+          285.0140056022409,
+          79.23669467787111
+        ],
+        [
+          285.0140056022409,
+          310.04901960784315
+        ],
+        [
+          157.56302521008405,
+          310.04901960784315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          56.162464985994355,
+          101.08543417366946
+        ],
+        [
+          157.00280112044817,
+          101.08543417366946
+        ],
+        [
+          157.00280112044817,
+          310.32913165266103
+        ],
+        [
+          56.162464985994355,
+          310.32913165266103
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          4.621848739495796,
+          87.0798319327731
+        ],
+        [
+          70.44817927170865,
+          87.0798319327731
+        ],
+        [
+          70.44817927170865,
+          306.12745098039215
+        ],
+        [
+          4.621848739495796,
+          306.12745098039215
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          4.901960784313708,
+          135.81932773109244
+        ],
+        [
+          75.49019607843132,
+          135.81932773109244
+        ],
+        [
+          75.49019607843132,
+          308.36834733893556
+        ],
+        [
+          4.901960784313708,
+          308.36834733893556
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          58.683473389355704,
+          168.312324929972
+        ],
+        [
+          139.07563025210086,
+          168.312324929972
+        ],
+        [
+          139.07563025210086,
+          312.28991596638656
+        ],
+        [
+          58.683473389355704,
+          312.28991596638656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          427.5910364145657,
+          98.56442577030812
+        ],
+        [
+          497.6190476190476,
+          98.56442577030812
+        ],
+        [
+          497.6190476190476,
+          333.0182072829131
+        ],
+        [
+          427.5910364145657,
+          333.0182072829131
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          384.1736694677871,
+          173.91456582633052
+        ],
+        [
+          488.9355742296917,
+          173.91456582633052
+        ],
+        [
+          488.9355742296917,
+          326.57563025210084
+        ],
+        [
+          384.1736694677871,
+          326.57563025210084
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "194.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500
+}

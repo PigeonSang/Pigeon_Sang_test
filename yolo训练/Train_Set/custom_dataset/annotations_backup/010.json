@@ -1,0 +1,69 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          15.060521415269989,
+          7.7281191806331435
+        ],
+        [
+          233.31005586592175,
+          7.7281191806331435
+        ],
+        [
+          233.31005586592175,
+          495.25139664804465
+        ],
+        [
+          15.060521415269989,
+          495.25139664804465
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          327.5372439478584,
+          183.5195530726257
+        ],
+        [
+          374.0,
+          183.5195530726257
+        ],
+        [
+          374.0,
+          358.193668528864
+        ],
+        [
+          327.5372439478584,
+          358.193668528864
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "010.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

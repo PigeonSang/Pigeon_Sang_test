@@ -1,0 +1,40 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          112.63966480446925,
+          60.24208566108007
+        ],
+        [
+          334.9860335195531,
+          60.24208566108007
+        ],
+        [
+          334.9860335195531,
+          457.6350093109869
+        ],
+        [
+          112.63966480446925,
+          457.6350093109869
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "592.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

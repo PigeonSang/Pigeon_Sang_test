@@ -1,0 +1,69 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          137.9655493482308,
+          157.4487895716946
+        ],
+        [
+          271.6713221601489,
+          157.4487895716946
+        ],
+        [
+          271.6713221601489,
+          393.2029795158286
+        ],
+        [
+          137.9655493482308,
+          393.2029795158286
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          33.68249534450649,
+          198.4171322160149
+        ],
+        [
+          169.25046554934818,
+          198.4171322160149
+        ],
+        [
+          169.25046554934818,
+          410.33519553072625
+        ],
+        [
+          33.68249534450649,
+          410.33519553072625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "301.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

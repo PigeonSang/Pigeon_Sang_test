@@ -1,0 +1,98 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          44.85567970204838,
+          38.64059590316573
+        ],
+        [
+          301.8389199255121,
+          38.64059590316573
+        ],
+        [
+          301.8389199255121,
+          475.88454376163867
+        ],
+        [
+          44.85567970204838,
+          475.88454376163867
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          81.35474860335194,
+          103.81750465549345
+        ],
+        [
+          190.10707635009305,
+          103.81750465549345
+        ],
+        [
+          190.10707635009305,
+          468.8081936685288
+        ],
+        [
+          81.35474860335194,
+          468.8081936685288
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          180.05121042830535,
+          104.1899441340782
+        ],
+        [
+          267.2020484171322,
+          104.1899441340782
+        ],
+        [
+          267.2020484171322,
+          465.82867783985097
+        ],
+        [
+          180.05121042830535,
+          465.82867783985097
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "093.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

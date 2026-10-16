@@ -1,0 +1,214 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          126.1904761904762,
+          1.3655462184873948
+        ],
+        [
+          220.58823529411768,
+          1.3655462184873948
+        ],
+        [
+          220.58823529411768,
+          304.44677871148457
+        ],
+        [
+          126.1904761904762,
+          304.44677871148457
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          11.064425770308112,
+          4.446778711484591
+        ],
+        [
+          116.1064425770308,
+          4.446778711484591
+        ],
+        [
+          116.1064425770308,
+          348.1442577030812
+        ],
+        [
+          11.064425770308112,
+          348.1442577030812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          250.28011204481794,
+          19.572829131652657
+        ],
+        [
+          344.95798319327736,
+          19.572829131652657
+        ],
+        [
+          344.95798319327736,
+          276.4355742296919
+        ],
+        [
+          250.28011204481794,
+          276.4355742296919
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          205.74229691876747,
+          8.928571428571418
+        ],
+        [
+          301.5406162464986,
+          8.928571428571418
+        ],
+        [
+          301.5406162464986,
+          275.875350140056
+        ],
+        [
+          205.74229691876747,
+          275.875350140056
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          316.94677871148457,
+          13.130252100840325
+        ],
+        [
+          409.9439775910363,
+          13.130252100840325
+        ],
+        [
+          409.9439775910363,
+          275.5952380952381
+        ],
+        [
+          316.94677871148457,
+          275.5952380952381
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          365.4061624649859,
+          6.127450980392155
+        ],
+        [
+          476.05042016806715,
+          6.127450980392155
+        ],
+        [
+          476.05042016806715,
+          290.1610644257703
+        ],
+        [
+          365.4061624649859,
+          290.1610644257703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          420.58823529411757,
+          3.3263305322128813
+        ],
+        [
+          499.0,
+          3.3263305322128813
+        ],
+        [
+          499.0,
+          285.6792717086835
+        ],
+        [
+          420.58823529411757,
+          285.6792717086835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "135.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500
+}

@@ -1,0 +1,40 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "蒲公英",
+      "score": null,
+      "points": [
+        [
+          64.35009310986959,
+          45.7169459962756
+        ],
+        [
+          328.40968342644317,
+          45.7169459962756
+        ],
+        [
+          328.40968342644317,
+          400.65176908752323
+        ],
+        [
+          64.35009310986959,
+          400.65176908752323
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "735.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 376
+}

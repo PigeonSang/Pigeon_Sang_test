@@ -1,4 +1,4 @@
-path: E:/Users/21081/Desktop/Work/Thesis/custom_dataset
+path: E:/Users/21081/Documents/GitHub/Pigeon_test/yolo训练/Train_Set/custom_dataset
 train: images/train
 val: images/val
 

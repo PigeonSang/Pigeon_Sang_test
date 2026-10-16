@@ -1,0 +1,40 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          7.422969187675065,
+          96.88375350140053
+        ],
+        [
+          479.6918767507002,
+          96.88375350140053
+        ],
+        [
+          479.6918767507002,
+          298.0042016806723
+        ],
+        [
+          7.422969187675065,
+          298.0042016806723
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "383.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500
+}

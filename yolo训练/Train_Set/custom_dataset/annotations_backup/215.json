@@ -1,0 +1,185 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          128.65456238361259,
+          149.25512104283052
+        ],
+        [
+          171.48510242085655,
+          149.25512104283052
+        ],
+        [
+          171.48510242085655,
+          189.47858472998135
+        ],
+        [
+          128.65456238361259,
+          189.47858472998135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          78.74767225325871,
+          182.0297951582868
+        ],
+        [
+          121.20577281191794,
+          182.0297951582868
+        ],
+        [
+          121.20577281191794,
+          242.7374301675977
+        ],
+        [
+          78.74767225325871,
+          242.7374301675977
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          102.95623836126617,
+          182.77467411545624
+        ],
+        [
+          126.7923649906889,
+          182.77467411545624
+        ],
+        [
+          126.7923649906889,
+          225.60521415270017
+        ],
+        [
+          102.95623836126617,
+          225.60521415270017
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          271.6713221601489,
+          170.48417132216014
+        ],
+        [
+          317.108938547486,
+          170.48417132216014
+        ],
+        [
+          317.108938547486,
+          215.17690875232773
+        ],
+        [
+          271.6713221601489,
+          215.17690875232773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          213.19832402234636,
+          142.17877094972067
+        ],
+        [
+          241.50372439478582,
+          142.17877094972067
+        ],
+        [
+          241.50372439478582,
+          186.49906890130353
+        ],
+        [
+          213.19832402234636,
+          186.49906890130353
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "红松",
+      "score": null,
+      "points": [
+        [
+          315.2467411545623,
+          201.76908752327745
+        ],
+        [
+          341.68994413407825,
+          201.76908752327745
+        ],
+        [
+          341.68994413407825,
+          239.38547486033514
+        ],
+        [
+          315.2467411545623,
+          239.38547486033514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "215.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 375
+}

@@ -1,0 +1,40 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          54.21313506815365,
+          0.0
+        ],
+        [
+          467.1003717472118,
+          0.0
+        ],
+        [
+          467.1003717472118,
+          332.0
+        ],
+        [
+          54.21313506815365,
+          332.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "086.jpg",
+  "imageData": null,
+  "imageHeight": 333,
+  "imageWidth": 500
+}

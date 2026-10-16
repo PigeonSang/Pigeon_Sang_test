@@ -1,0 +1,156 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          116.86405959031646,
+          5.865921787709497
+        ],
+        [
+          250.19739292364983,
+          5.865921787709497
+        ],
+        [
+          250.19739292364983,
+          156.70391061452514
+        ],
+        [
+          116.86405959031646,
+          156.70391061452514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          217.05027932960894,
+          64.71135940409683
+        ],
+        [
+          280.364990689013,
+          64.71135940409683
+        ],
+        [
+          280.364990689013,
+          145.53072625698326
+        ],
+        [
+          217.05027932960894,
+          145.53072625698326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          312.0223463687151,
+          68.06331471135938
+        ],
+        [
+          366.39851024208565,
+          68.06331471135938
+        ],
+        [
+          366.39851024208565,
+          131.75046554934823
+        ],
+        [
+          312.0223463687151,
+          131.75046554934823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          58.76350093109866,
+          64.33891992551209
+        ],
+        [
+          125.80260707635,
+          64.33891992551209
+        ],
+        [
+          125.80260707635,
+          183.5195530726257
+        ],
+        [
+          58.76350093109866,
+          183.5195530726257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "狗尾草",
+      "score": null,
+      "points": [
+        [
+          110.53258845437603,
+          131.0055865921788
+        ],
+        [
+          208.1117318435754,
+          131.0055865921788
+        ],
+        [
+          208.1117318435754,
+          242.7374301675977
+        ],
+        [
+          110.53258845437603,
+          242.7374301675977
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "524.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 376
+}

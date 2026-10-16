@@ -1,0 +1,156 @@
+{
+  "version": "4.1.3",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "芦苇",
+      "score": null,
+      "points": [
+        [
+          97.29702048417124,
+          180.91247672253257
+        ],
+        [
+          244.0381750465549,
+          180.91247672253257
+        ],
+        [
+          244.0381750465549,
+          465.08379888268155
+        ],
+        [
+          97.29702048417124,
+          465.08379888268155
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          204.93202979515826,
+          4.748603351955307
+        ],
+        [
+          279.79236499068895,
+          4.748603351955307
+        ],
+        [
+          279.79236499068895,
+          246.83426443202978
+        ],
+        [
+          204.93202979515826,
+          246.83426443202978
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          9.773743016759767,
+          9.590316573556791
+        ],
+        [
+          82.02700186219727,
+          9.590316573556791
+        ],
+        [
+          82.02700186219727,
+          266.57355679702044
+        ],
+        [
+          9.773743016759767,
+          266.57355679702044
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          70.85381750465535,
+          17.03910614525138
+        ],
+        [
+          172.90223463687147,
+          17.03910614525138
+        ],
+        [
+          172.90223463687147,
+          279.60893854748593
+        ],
+        [
+          70.85381750465535,
+          279.60893854748593
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "白桦",
+      "score": null,
+      "points": [
+        [
+          55.2113594040967,
+          9.217877094972067
+        ],
+        [
+          116.29143389199254,
+          9.217877094972067
+        ],
+        [
+          116.29143389199254,
+          256.89013035381737
+        ],
+        [
+          55.2113594040967,
+          256.89013035381737
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "381.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 281
+}
