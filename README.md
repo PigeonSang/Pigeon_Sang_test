@@ -17,6 +17,9 @@ Don’t use it commercially.
 😅 以后再说吧  
 😅 We'll talk about it later.
 
+## Changelog
+Full log: [CHANGELOG.md](./CHANGELOG.md)
+
 <!--
 - 🔭 我目前正在做 ...
 - 🌱 我现在正在学习 ...
