@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>植辨 · 植物识别项目 CHANGELOG</title>
+<style>
+  :root {
+    --bg: #16181d;
+    --card: #1f232b;
+    --line: #2e3440;
+    --text: #d8dee9;
+    --muted: #8a93a3;
+    --accent: #1f8a3d;
+    --accent2: #3ddc84;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+    line-height: 1.7;
+    padding: 40px 20px;
+  }
+  .wrap { max-width: 820px; margin: 0 auto; }
+  .intro {
+    text-align: center;
+    color: var(--muted);
+    margin-bottom: 32px;
+    font-size: 14px;
+  }
+
+  /* ===== 折叠块：箭头放标题正后方 ===== */
+  details.ver {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    margin: 10px 0;
+    overflow: hidden;
+  }
+  details.ver > summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 18px;
+    user-select: none;
+  }
+  details.ver > summary::-webkit-details-marker { display: none; }
+  details.ver > summary::after {
+    content: "▸";
+    color: var(--accent2);
+    font-size: 18px;
+    transition: transform .22s ease;
+    flex-shrink: 0;
+    margin-left: 14px;
+  }
+  details.ver[open] > summary::after { transform: rotate(90deg); }
+  details.ver > summary:hover { background: #262c36; }
+
+  details.ver > summary h1 { font-size: 24px; color: var(--text); }
+  details.ver > summary h2 { font-size: 18px; color: var(--text); }
+  details.ver > summary h3 { font-size: 15px; color: var(--text); }
+
+  .ver-body { padding: 4px 20px 18px; color: var(--text); border-top: 1px solid var(--line); }
+  .ver-body p { margin: 12px 0; }
+  .ver-body .muted { color: var(--muted); font-size: 13px; }
+
+  /* 次级嵌套缩进 */
+  details.ver details.ver { margin: 8px 0; }
+  details.ver details.ver > summary h3 { color: #c3cbd8; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="intro">植辨 · 植物识别项目</div>
+
+  <!-- v0.0.0（折叠，包含 v0.1.0 / v0.2.0） -->
+  <details class="ver">
+    <summary><h1>v0.0.0 · 项目立项与方案制定</h1></summary>
+    <div class="ver-body">
+      <p>基于 YOLOv8 训练植物识别模型，用于输入截图识别植物输出种类及数量，后续需加入移动端和设备端，设备搭载于无人机航拍，嵌入 STM32 直接处理输出种类及数量数据/输出截图，PC 接收处理。</p>
+      <p>移动端需用户注册、图片上传/图片接收-识别、数据记录/历史-出表-导出、植物百科 形态/分布、模型调参等。</p>
+      <p>确立航拍植物识别项目，目标是识别白桦、红松、芦苇、狗尾草、蒲公英 5 种植物，技术路线定为 YOLOv8 目标检测，数据计划从 iNaturalist 爬取近景单株图、用 X-AnyLabeling 手动标注、按 80/20 划分训练/验证，以 mAP50 为主要评估指标——此为立项计划阶段，尚未执行。</p>
+
+      <!-- v0.1.0（v0.0.0 子级） -->
+      <details class="ver">
+        <summary><h2>v0.1.0 · 项目定位调整与单植物识别模型落地</h2></summary>
+        <div class="ver-body">
+          <p>迫于标注 &amp; 爬取来源的寻找难度与工作量与毕业单人项目精力耗费不吻合，项目定位从“近地航拍多品种识别”调整为<strong>单植物识别</strong>——用 iNaturalist 爬取白桦/红松/芦苇/狗尾草/蒲公英共 748 张近景单株图，手动标注后按 80/20 切成 598/150 转 YOLO 格式，YOLOv8n 训 100 epochs 得 mAP50=0.676，交付固定路径推理脚本，后续设备端大概率砍掉，仅保留移动端形式。</p>
+
+          <details class="ver">
+            <summary><h3>v0.1.1 · 移动端形态确定与备案推进</h3></summary>
+            <div class="ver-body">
+              <p>移动端初步确定为以微信小程序形式展现，相关框架设计正在逐步完善，备案审核中，后续将根据审核结果与开发进度同步更新。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.2 · 初始测试版发布与云端选型筹备</h3></summary>
+            <div class="ver-body">
+              <p>小程序 v0.0.0 测试版已上传，需服务器部署后端，服务器比价中，后续同步更新。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.3 · 后端整理与部署包完善</h3></summary>
+            <div class="ver-body">
+              <p>修复上传图片临时文件误写入代码目录的问题，改为写入系统临时目录，避免部署环境无写权限时运行异常；同时分类整理运行时文件与本地开发、训练产物，构建包含运行代码、模型、依赖清单和部署说明的干净部署包，为云端上线奠定基础。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.4 · 云端服务器部署与环境搭建</h3></summary>
+            <div class="ver-body">
+              <p>完成阿里云经济型学生机（2核2G/3M/40G，99元/年）选购及 Ubuntu 22.04 部署，安装 Python 依赖并解决 OpenCV 缺失 libGL 运行库导致的启动失败问题，通过 systemd 实现服务常驻、开机自启与崩溃自动重启。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.5 · 公网访问打通</h3></summary>
+            <div class="ver-body">
+              <p>后端监听地址由 127.0.0.1 调整为 0.0.0.0，并在云安全组放行 8000 端口，实现公网 IP 直接访问，验证模型列表等接口对外响应正常。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.6 · 小程序联调与设置持久化</h3></summary>
+            <div class="ver-body">
+              <p>修复小程序接口地址配置错误，实现后端地址、识别模型及置信度等设置的本地持久化，确保重启后配置不丢失；贯通小程序拍照上传、后端识别与结果回显的完整链路。</p>
+            </div>
+          </details>
+
+          <details class="ver">
+            <summary><h3>v0.1.7 · 服务稳定性修复</h3></summary>
+            <div class="ver-body">
+              <p>针对后端异步接口内同步 YOLO 推理阻塞事件循环、导致服务整体卡死的问题，已将推理改为线程池执行，确保单个识别请求不再影响其他接口响应。</p>
+            </div>
+          </details>
+
+        </div>
+      </details>
+
+      <!-- v0.2.0（v0.0.0 子级） -->
+      <details class="ver">
+        <summary><h2>v0.2.0 · 识别稳定版与标注图回归</h2></summary>
+        <div class="ver-body">
+          <p>修复无图形界面环境下标注图渲染卡死问题，改用 OpenCV 直接绘制检测框，实现识别结果秒级返回并附带标注图；模型推理逻辑及 YOLO 模型本身均保持不变，形成稳定可用的全链路版本。</p>
+
+          <details class="ver">
+            <summary><h3>v0.2.1 · </h3></summary>
+            <div class="ver-body">
+              <p></p>
+            </div>
+          </details>
+
+        </div>
+      </details>
+
+    </div>
+  </details>
+
+  <details class="ver">
+    <summary><h1>v1.0.0 · </h1></summary>
+    <div class="ver-body">
+          <p><p>
+      </div>
+  </details>
+
+</div>
+</body>
+</html>

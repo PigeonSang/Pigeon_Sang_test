@@ -21,7 +21,7 @@ Don’t use it commercially.
 🔔 If you have questions, ideas or suggestions, please open an issue to discuss.
 
 ## Changelog
-📌 完整日志 Full log：[CHANGELOG.md](./CHANGELOG.md)
+📌 完整日志 Full log：[CHANGELOG.html](./CHANGELOG.html)
 
 
 
